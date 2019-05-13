@@ -1,4 +1,4 @@
-## ようこそ
+## ヨウコソ
 
 You can use the [editor on GitHub](https://github.com/demoghe/glowing-octo-succotash/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
